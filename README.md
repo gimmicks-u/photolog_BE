@@ -1,6 +1,6 @@
 # Photolog Server
 
-Photolog Server Readme 페이지 입니다.
+**포토로그의 자세한 개발과정과 고민들은 [이곳](https://sequoia-dust-a86.notion.site/Photolog-9214843c6058451db83a338e3ad8ccdb)에서 확인하실 수 있습니다.**
 
 
 ## Photolog 서비스소개
